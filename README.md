@@ -1,2 +1,2 @@
 # sicp
-this is for exercise of sick
+This is for exercise of sicp. 
